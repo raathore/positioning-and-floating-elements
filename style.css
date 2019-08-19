@@ -32,8 +32,7 @@ nav{
   margin-right: 8px;
 }
 .topic{
-  align-self: flex-start;
-  margin-top: 5px;
+  margin-bottom: 4px;
 }
 .topic a{
   font-size: 14px;
