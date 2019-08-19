@@ -197,6 +197,7 @@ p a:hover{
 .aside2 a{
   display: flex;
   align-items: center;
+  color: #222;
   text-decoration: none;
   margin-bottom: 10px;
 }
