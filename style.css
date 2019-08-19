@@ -94,6 +94,9 @@ button:hover{
 .headImg img{
   width: 100%;
 }
+figcaption{
+  max-width: 850px;
+}
 .caption1{
   font-size: 14px;
   color: #666;
