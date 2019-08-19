@@ -383,14 +383,14 @@ date{
   border-bottom: none;
 }
 footer{
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 footer ul{
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
-  margin: 5px 20px;
+  margin: 5px 0;
   padding-left: 0;
 }
 footer ul li a{
