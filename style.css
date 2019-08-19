@@ -333,7 +333,7 @@ date{
 .manu{
   display: flex;
   margin-top: 10px;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   border-bottom: 1px solid #e2e2e2;
 }
 .manu div{
